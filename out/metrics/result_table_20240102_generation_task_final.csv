@@ -1,0 +1,8 @@
+Task,dataset,ACC,BLEU-1,BLEU-2,BLEU-3,BLEU-4,Rouge_1,Rouge_2,Rouge_L
+reading comprehension,79,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+annotation:description,100,0.51,0.6853,0.6255,0.604,0.5878,0.7165,0.6345,0.7053
+complete the blank,988,0.0435,0.4329,0.1236,0.0842,0.1025,0.4891,0.072,0.4885
+protein seq,1716,0.993,0.9999,0.9998,0.9998,0.9997,1.0,0.9999,1.0
+reverse sequence,4309,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+complementary sequence,4250,0.9993,0.9999,0.9999,0.9999,0.9999,1.0,1.0,1.0
+reverse complementary sequence,4382,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
