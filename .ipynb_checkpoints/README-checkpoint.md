@@ -18,7 +18,7 @@ transformers==4.18.0
 
 
 ## Materials
- Download data sets and the trained models from 
+ Download data sets and the trained models from https://zenodo.org/records/10695802
 
 <!-- #region -->
 ## Training：
